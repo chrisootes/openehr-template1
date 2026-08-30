@@ -19,9 +19,9 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "sem_ver" : "0.1.0",
+      "sem_ver" : "0.2.0",
       "build_uid" : "68bfb8c9-00ac-4fd2-9bb0-ee56d73ce702",
-      "MD5-CAM-1.0.1" : "1b924f249cc88790b0c1efecaae6c1a9",
+      "MD5-CAM-1.0.1" : "149c90be6fb127e0b9d73586a3b932f1",
       "PARENT:MD5-CAM-1.0.1" : "45E854C074D1195F3280B279C265B7C7"
     },
     "details" : {
@@ -193,7 +193,7 @@
         "at0000.1" : {
           "@type" : "ARCHETYPE_TERM",
           "code" : "at0000.1",
-          "text" : "diagnose1",
+          "text" : "diagnose2",
           "description" : "A persistent and managed list of any combination of diagnoses, problems and/or procedures that may influence clinical decision-making and care provision for the subject of care."
         }
       },
